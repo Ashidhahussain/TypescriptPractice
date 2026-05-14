@@ -29,12 +29,15 @@ std1.studentDetails()
 //git config  --global user.name"Ashidhahussain"
 //git config --global user.emaill "ashidhaphussain@gmail.com"
 
-//git init- To add Repository
+//git init- To add Repository - We can add manually from the Github
 //git status  - Shows the file/ folder to add to the git
 
 //git add . - To add all file to the Git repository
 
 //git add filename - to add selected files/ required files
 
+//git commit -m "Add content here" - To commit  -(We are giving details about the tasks done today -)
 
+//git remote add origin url - Url will be the Repository url
+// 
 
